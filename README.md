@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on react and js project
-- 📫 How to reach me @e_lardze on twitter
+- 📫 Reach me on twitter @e_lardze, estherlardze8@gmail.com
 
 <!---
 estherlardze/estherlardze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
