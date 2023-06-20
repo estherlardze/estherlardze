@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyR7LlW5hXbNJu0PIvTGHUoPERu66FtAHvGA&usqp=CAU" alt="banner" width="100%">
+<img src="https://static.vecteezy.com/system/resources/previews/000/829/812/original/binary-code-banner-vector.jpg" alt="banner" width="100%">
 <h1 align="center">Hi 👋, I'm Odzao Esther Lardze</h1>
 <h3 align="center">A passionate frontend developer with expertise in JavaScript and React Js, crafting visually stunning and user-friendly web Applications. I am currently working on projects</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/>
