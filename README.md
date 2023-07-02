@@ -1,5 +1,5 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4vbG6vpwsKA1u-Ox-shs9LyOOhGOW7Ebm3R78nGN-ICmeIg0BJuGQ4ZAm17pZhtCHkUQ&usqp=CAU" alt="banner" width="100%">
-<h1 align="center">Hi 👋, I'm Odzao Esther Lardze</h1>
+<h1 align="center">Hi 👋,  I'm Odzao Esther Lardze</h1>
 <h3 align="center"> Frontend Developer </h3>
 <hr>
 
@@ -32,8 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=estherlardze&show_icons=true&locale=en" alt="estherlardze" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estherlardze&" alt="estherlardze" /></p>
-
-<!---
-estherlardze/estherlardze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
