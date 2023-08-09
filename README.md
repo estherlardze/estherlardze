@@ -1,6 +1,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4vbG6vpwsKA1u-Ox-shs9LyOOhGOW7Ebm3R78nGN-ICmeIg0BJuGQ4ZAm17pZhtCHkUQ&usqp=CAU" alt="banner" width="100%">
 <h1 align="center">Hi 👋,  I'm Odzao Esther Lardze</h1>
-<h3 align="center"> Frontend Developer </h3>
+<h3 align="center"> Software Developer </h3>
 <hr>
 
 <h3 align="center">A passionate frontend developer with expertise in JavaScript and React Js, crafting visually stunning and user-friendly web Applications. I am currently working on projects</h3>
