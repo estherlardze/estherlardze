@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **react js projects**
 
-- 💬 Ask me about **react, Javascript, Css**
+- 💬 Ask me about **react, Javascript, node**
 
 - 📫 How to reach me **estherlardze8@gmail.com**
 
