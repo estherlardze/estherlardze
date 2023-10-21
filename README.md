@@ -3,7 +3,7 @@
 <h3 align="center"> Software Developer </h3>
 <hr>
 
-<h3 align="center">A passionate frontend developer with expertise in JavaScript and React Js, crafting visually stunning and user-friendly web Applications. I am currently working on projects</h3>
+<p align="center" >A passionate frontend developer with expertise in JavaScript and React Js, crafting visually stunning and user-friendly web Applications. I am currently working on projects</p>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estherlardze&label=Profile%20views&color=0e75b6&style=flat" alt="estherlardze" /> </p>
