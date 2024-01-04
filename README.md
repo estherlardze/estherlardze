@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/e_lardze" target="blank"><img src="https://img.shields.io/twitter/follow/e_lardze?logo=twitter&style=for-the-badge" alt="e_lardze" /></a> </p>
 
-- 🌱 I’m currently learning **redux and firebase**
+- 🌱 I’m currently **building projects**
 
 - 👯 I’m looking to collaborate on **react js projects**
 
-- 💬 Ask me about **react, Javascript, node**
+- 💬 Ask me about **react, Javascript, redux, node**
 
 - 📫 How to reach me **estherlardze8@gmail.com**
 
