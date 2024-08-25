@@ -1,14 +1,9 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4vbG6vpwsKA1u-Ox-shs9LyOOhGOW7Ebm3R78nGN-ICmeIg0BJuGQ4ZAm17pZhtCHkUQ&usqp=CAU" alt="banner" width="100%">
 <h1 align="center">Hi 👋,  I'm Odzao Esther Lardze</h1>
 <h3 align="center"> Software Developer </h3>
 <hr>
 
-<p align="center" >A passionate frontend developer with expertise in JavaScript and React Js, crafting visually stunning and user-friendly web Applications. I am currently working on projects</p>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=estherlardze&label=Profile%20views&color=0e75b6&style=flat" alt="estherlardze" /> </p>
 
-<p align="left"> <a href="https://twitter.com/e_lardze" target="blank"><img src="https://img.shields.io/twitter/follow/e_lardze?logo=twitter&style=for-the-badge" alt="e_lardze" /></a> </p>
 
 - 🌱 I’m currently **building projects**
 
