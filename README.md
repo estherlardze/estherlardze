@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋,  I'm Odzao Esther Lardze</h1>
-<h3 align="center"> Software Developer </h3>
+<h3 align="center">A Software Developer </h3>
 <hr>
-
-
-
-
-- 🌱 I’m currently **building projects**
-
-- 👯 I’m looking to collaborate on **react js projects**
-
-- 💬 Ask me about **react, Javascript, redux, node**
 
 - 📫 How to reach me **estherlardze8@gmail.com**
 
