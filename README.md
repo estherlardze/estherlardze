@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer </h3>
 <hr>
 
-- 📫 How to reach me **estherlardze8@gmail.com**
+📫 How to reach me **estherlardze8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
