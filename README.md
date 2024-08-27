@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋,  I'm Odzao Esther Lardze</h1>
-<h3 align="center">A Software Developer </h3>
 <hr>
 
 📫 How to reach me **estherlardze8@gmail.com**
