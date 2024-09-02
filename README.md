@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋,  I'm Esther</h1>
-<hr>
+
 <h3  align="center">A Software Developer</h3>
 
 <h3 align="left">Languages and Tools I use</h3>
