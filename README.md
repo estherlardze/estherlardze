@@ -53,7 +53,6 @@ Also an active open-source contributor and passionate about collaboration.
 * System Design (intermediate)
 * Problem Solving & Debugging
 
-
 ## What I’m Working On
 
 * Improving my **AI & Secure AI** knowledge
@@ -74,8 +73,4 @@ Role-based system for Administrators, Teachers, students, and parents.
 A web-based application that helps users plan their trip
 
 
-## Contact
 
-* **Email:** [estherlardze8@gmail.com](mailto:estherlardze8@gmail.com)
-* **LinkedIn:** https://www.linkedin.com/in/esther-odzao-lardze-6ba3b637b/
-* **Portfolio:** https://portfolio-pz44.vercel.app/
