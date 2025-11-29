@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Esther Odzao
+# Hi, I'm Esther Odzao
 
 Software Developer | AI & ML Enthusiast 
 
