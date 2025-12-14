@@ -8,18 +8,18 @@ I specialize in Node.js/NestJs, TypeScript, React/Next.js, and backend architect
 Also an active open-source contributor and passionate about collaboration.
 
 
-###Tech Stack
+##Tech Stack
 Frontend Development
 React.js , Next.js, TypeScript & JavaScript , TailwindCSS , HTML5 & CSS3 
 
-###Backend Development
+##Backend Development
 Node.js , Express.js, NestJS, REST APIs , Databases , MongoDB 
 
-###Mobile Development
+##Mobile Development
 React Native (beginner)
 
 
-###DevOps & Tools
+##DevOps & Tools
 Git & GitHub , Docker (learning) , CI/CD (GitHub Actions) , Postman , Linux & Command Line 
 Other Skills
 API Design & Integration
