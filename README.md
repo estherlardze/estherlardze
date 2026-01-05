@@ -3,7 +3,7 @@ Software Developer | AI & ML Enthusiast
 
 A detail-oriented software engineer with a strong drive for building scalable, cloud-ready, and high-performance digital solutions.
 
-I specialize in Node.js/NestJs, TypeScript, React/Next.js, and backend architectures — blending cloud technologies and AI/ML to create impactful real-world products.
+I specialize in Node.js/Express, TypeScript, React/Next.js, and backend architectures — blending cloud technologies and AI/ML to create impactful real-world products.
 
 Also an active open-source contributor and passionate about collaboration.
 
